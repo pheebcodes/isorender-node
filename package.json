@@ -1,0 +1,25 @@
+{
+  "name": "isorender",
+  "version": "1.0.0",
+  "description": "An isomorphic rendering server for use with clients in other languages.",
+  "main": "src/index.js",
+  "repository": "pheebcodes/isorender-node",
+  "author": "phoebe <me@phoebe.codes>",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "isomorphic",
+    "server",
+    "rendering",
+    "render",
+    "client"
+  ]
+}
